@@ -15,8 +15,6 @@ following key areas:
     - Build Automation
     - Item discovery
 
-and many, many other areas.
-
 Currently, the project is using Textual to build a fully-featured TUI using Python. However,
 depending on interest and availability, we may broaden our offerings to include web-based
 UI's and other alternatives.
